@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -83,7 +84,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="id" value="1602757766826" />
+          <option name="id" value="1603457273164" />
           <option name="inputFilterGroups">
             <list>
               <GrepExpressionGroup>

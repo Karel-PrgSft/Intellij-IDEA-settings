@@ -3,11 +3,25 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*scss</mask>
     <mask>*kariera*</mask>
     <mask>*ziskatel*</mask>
-    <mask>*mentor*</mask>
+    <mask>*pruvodce*</mask>
+    <mask>*idd*</mask>
+    <mask>*potreba*</mask>
+    <mask>*pruvo*</mask>
+    <mask>*podnik*</mask>
+    <mask>*</mask>
+    <mask>*vykon*</mask>
+    <mask>*pruvod*</mask>
+    <mask>*enum*</mask>
+    <mask>ziskatel*</mask>
+    <mask>mentor*</mask>
+    <mask>*xhmtl</mask>
+    <mask>pruvodce*</mask>
+    <mask>*java</mask>
+    <mask>*hr*</mask>
     <mask>*xhtml</mask>
-    <mask>*hr*xhtml</mask>
+    <mask>*scss</mask>
+    <mask>*mentor*</mask>
   </component>
 </application>
