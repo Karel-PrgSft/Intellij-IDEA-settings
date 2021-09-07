@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="mango.ais-servis.cz" id="e81e3a06-fca0-47d6-9d7e-69abaf0bba84" port="22" nameFormat="DESCRIPTIVE" username="klegat" />
+    </configs>
+  </component>
+</application>

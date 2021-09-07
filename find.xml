@@ -1,0 +1,13 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*scss</mask>
+    <mask>*kariera*</mask>
+    <mask>*ziskatel*</mask>
+    <mask>*mentor*</mask>
+    <mask>*xhtml</mask>
+    <mask>*hr*xhtml</mask>
+  </component>
+</application>
